@@ -1,0 +1,23 @@
+{
+  "id": "intro",
+  "title": "Introduction to ROS 2 Textbook",
+  "description": "Welcome to the Robotic Nervous System",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/book-hackathon/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Introduction to ROS 2",
+    "permalink": "/book-hackathon/docs/intro-ros2/"
+  }
+}

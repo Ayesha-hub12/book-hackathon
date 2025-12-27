@@ -1,0 +1,389 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/book-hackathon/docs",
+          "tagsPath": "/book-hackathon/docs/tags",
+          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
+          "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\PMLS\\Documents\\GitHub\\book-hackathon\\website\\sidebars.js",
+          "contentPath": "C:\\Users\\PMLS\\Documents\\GitHub\\book-hackathon\\website\\docs",
+          "contentPathLocalized": "C:\\Users\\PMLS\\Documents\\GitHub\\book-hackathon\\website\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "id": "intro",
+              "title": "Introduction to ROS 2 Textbook",
+              "description": "Welcome to the Robotic Nervous System",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/book-hackathon/docs/intro",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Introduction to ROS 2",
+                "permalink": "/book-hackathon/docs/intro-ros2/"
+              }
+            },
+            {
+              "id": "intro-ros2/concepts",
+              "title": "Core ROS 2 Concepts: Nodes, Topics, Services, and Messages",
+              "description": "Understanding ROS 2 Architecture",
+              "source": "@site/docs/intro-ros2/concepts.md",
+              "sourceDirName": "intro-ros2",
+              "slug": "/intro-ros2/concepts",
+              "permalink": "/book-hackathon/docs/intro-ros2/concepts",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro-ros2/concepts.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction to ROS 2",
+                "permalink": "/book-hackathon/docs/intro-ros2/"
+              },
+              "next": {
+                "title": "Middleware and Distributed Systems Overview",
+                "permalink": "/book-hackathon/docs/intro-ros2/middleware"
+              }
+            },
+            {
+              "id": "intro-ros2/index",
+              "title": "Introduction to ROS 2",
+              "description": "Welcome to ROS 2: The Robotic Nervous System",
+              "source": "@site/docs/intro-ros2/index.md",
+              "sourceDirName": "intro-ros2",
+              "slug": "/intro-ros2/",
+              "permalink": "/book-hackathon/docs/intro-ros2/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro-ros2/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction to ROS 2 Textbook",
+                "permalink": "/book-hackathon/docs/intro"
+              },
+              "next": {
+                "title": "Core ROS 2 Concepts: Nodes, Topics, Services, and Messages",
+                "permalink": "/book-hackathon/docs/intro-ros2/concepts"
+              }
+            },
+            {
+              "id": "intro-ros2/middleware",
+              "title": "Middleware and Distributed Systems Overview",
+              "description": "The Role of Middleware in ROS 2",
+              "source": "@site/docs/intro-ros2/middleware.md",
+              "sourceDirName": "intro-ros2",
+              "slug": "/intro-ros2/middleware",
+              "permalink": "/book-hackathon/docs/intro-ros2/middleware",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro-ros2/middleware.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Core ROS 2 Concepts: Nodes, Topics, Services, and Messages",
+                "permalink": "/book-hackathon/docs/intro-ros2/concepts"
+              },
+              "next": {
+                "title": "Python Agents with ROS 2",
+                "permalink": "/book-hackathon/docs/python-agents/"
+              }
+            },
+            {
+              "id": "python-agents/ai-integration",
+              "title": "Bridging AI Agents to ROS 2 Control",
+              "description": "Integrating AI with ROS 2 Systems",
+              "source": "@site/docs/python-agents/ai-integration.md",
+              "sourceDirName": "python-agents",
+              "slug": "/python-agents/ai-integration",
+              "permalink": "/book-hackathon/docs/python-agents/ai-integration",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/python-agents/ai-integration.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "rclpy Basics: Creating Nodes, Publishers, and Subscribers",
+                "permalink": "/book-hackathon/docs/python-agents/rclpy-basics"
+              },
+              "next": {
+                "title": "Robot Structure with URDF",
+                "permalink": "/book-hackathon/docs/urdf-structure/"
+              }
+            },
+            {
+              "id": "python-agents/index",
+              "title": "Python Agents with ROS 2",
+              "description": "Bridging Python and ROS 2",
+              "source": "@site/docs/python-agents/index.md",
+              "sourceDirName": "python-agents",
+              "slug": "/python-agents/",
+              "permalink": "/book-hackathon/docs/python-agents/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/python-agents/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Middleware and Distributed Systems Overview",
+                "permalink": "/book-hackathon/docs/intro-ros2/middleware"
+              },
+              "next": {
+                "title": "rclpy Basics: Creating Nodes, Publishers, and Subscribers",
+                "permalink": "/book-hackathon/docs/python-agents/rclpy-basics"
+              }
+            },
+            {
+              "id": "python-agents/rclpy-basics",
+              "title": "rclpy Basics: Creating Nodes, Publishers, and Subscribers",
+              "description": "Getting Started with rclpy",
+              "source": "@site/docs/python-agents/rclpy-basics.md",
+              "sourceDirName": "python-agents",
+              "slug": "/python-agents/rclpy-basics",
+              "permalink": "/book-hackathon/docs/python-agents/rclpy-basics",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/python-agents/rclpy-basics.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Python Agents with ROS 2",
+                "permalink": "/book-hackathon/docs/python-agents/"
+              },
+              "next": {
+                "title": "Bridging AI Agents to ROS 2 Control",
+                "permalink": "/book-hackathon/docs/python-agents/ai-integration"
+              }
+            },
+            {
+              "id": "urdf-structure/humanoid-models",
+              "title": "Humanoid Robot Models and Integration with ROS 2",
+              "description": "Creating Humanoid Robots in URDF",
+              "source": "@site/docs/urdf-structure/humanoid-models.md",
+              "sourceDirName": "urdf-structure",
+              "slug": "/urdf-structure/humanoid-models",
+              "permalink": "/book-hackathon/docs/urdf-structure/humanoid-models",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/urdf-structure/humanoid-models.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "URDF Components: Links and Joints",
+                "permalink": "/book-hackathon/docs/urdf-structure/links-joints"
+              }
+            },
+            {
+              "id": "urdf-structure/index",
+              "title": "Robot Structure with URDF",
+              "description": "Modeling Robots: Links, Joints, and Kinematics",
+              "source": "@site/docs/urdf-structure/index.md",
+              "sourceDirName": "urdf-structure",
+              "slug": "/urdf-structure/",
+              "permalink": "/book-hackathon/docs/urdf-structure/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/urdf-structure/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Bridging AI Agents to ROS 2 Control",
+                "permalink": "/book-hackathon/docs/python-agents/ai-integration"
+              },
+              "next": {
+                "title": "URDF Components: Links and Joints",
+                "permalink": "/book-hackathon/docs/urdf-structure/links-joints"
+              }
+            },
+            {
+              "id": "urdf-structure/links-joints",
+              "title": "URDF Components: Links and Joints",
+              "description": "Understanding Robot Structure",
+              "source": "@site/docs/urdf-structure/links-joints.md",
+              "sourceDirName": "urdf-structure",
+              "slug": "/urdf-structure/links-joints",
+              "permalink": "/book-hackathon/docs/urdf-structure/links-joints",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/urdf-structure/links-joints.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Robot Structure with URDF",
+                "permalink": "/book-hackathon/docs/urdf-structure/"
+              },
+              "next": {
+                "title": "Humanoid Robot Models and Integration with ROS 2",
+                "permalink": "/book-hackathon/docs/urdf-structure/humanoid-models"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Module 1 - The Robotic Nervous System (ROS 2)",
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "Chapter 1: Introduction to ROS 2",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "intro-ros2/index"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "intro-ros2/concepts"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "intro-ros2/middleware"
+                      }
+                    ],
+                    "collapsed": true,
+                    "collapsible": true
+                  },
+                  {
+                    "type": "category",
+                    "label": "Chapter 2: Python Agents with ROS 2",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "python-agents/index"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "python-agents/rclpy-basics"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "python-agents/ai-integration"
+                      }
+                    ],
+                    "collapsed": true,
+                    "collapsible": true
+                  },
+                  {
+                    "type": "category",
+                    "label": "Chapter 3: Robot Structure with URDF",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "urdf-structure/index"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "urdf-structure/links-joints"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "urdf-structure/humanoid-models"
+                      }
+                    ],
+                    "collapsed": true,
+                    "collapsible": true
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": "/book-hackathon/blog/tags",
+      "blogTagsPaginated": []
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/book-hackathon/",
+        "source": "@site/src/pages/index.js"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

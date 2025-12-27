@@ -1,0 +1,62 @@
+# API Contract: Content Management
+
+**Feature**: 1-ros2-robotic-nervous-system
+**Date**: 2025-12-27
+
+## Content Retrieval API
+
+### GET /api/content/{chapterId}
+
+**Description**: Retrieve content for a specific chapter
+
+**Parameters**:
+- chapterId (path, required): The ID of the chapter to retrieve
+
+**Response**:
+- 200 OK: Chapter content with metadata
+  ```json
+  {
+    "id": "intro-ros2",
+    "title": "Introduction to ROS 2",
+    "description": "Fundamental ROS 2 concepts including nodes, topics, services, and messages",
+    "sections": [
+      {
+        "id": "concepts",
+        "title": "Core Concepts",
+        "content": "# Core Concepts\n...",
+        "prerequisites": ["python-basics", "ai-concepts"],
+        "learningObjectives": [
+          "Identify and explain the purpose of nodes, topics, services, and messages",
+          "Explain how components communicate and coordinate"
+        ]
+      }
+    ],
+    "nextChapter": "python-agents",
+    "previousChapter": null
+  }
+  ```
+
+### GET /api/search
+
+**Description**: Search across all textbook content
+
+**Parameters**:
+- query (query, required): Search term
+- limit (query, optional): Maximum number of results (default: 10)
+
+**Response**:
+- 200 OK: Search results
+  ```json
+  {
+    "query": "nodes",
+    "results": [
+      {
+        "id": "intro-ros2/concepts",
+        "title": "Core Concepts",
+        "chapter": "Introduction to ROS 2",
+        "excerpt": "In ROS 2, nodes are the fundamental building blocks...",
+        "url": "/docs/intro-ros2/concepts"
+      }
+    ]
+  }
+  ```

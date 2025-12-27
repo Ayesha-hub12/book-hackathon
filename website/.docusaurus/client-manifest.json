@@ -1,0 +1,285 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "237": [
+      237
+    ],
+    "17896441": [
+      869,
+      401
+    ],
+    "main": [
+      354,
+      869,
+      792
+    ],
+    "runtime~main": [
+      792,
+      869,
+      354
+    ],
+    "0e384e19": [
+      976
+    ],
+    "13f6729e": [
+      66
+    ],
+    "3161345c": [
+      393
+    ],
+    "3445f5d7": [
+      79
+    ],
+    "590d08a6": [
+      932
+    ],
+    "5e229e67": [
+      934
+    ],
+    "5e95c892": [
+      647
+    ],
+    "5f4325a7": [
+      78
+    ],
+    "609f5063": [
+      738
+    ],
+    "6e3e808e": [
+      325
+    ],
+    "8963a6f2": [
+      850
+    ],
+    "935f2afb": [
+      581
+    ],
+    "a04c8bf3": [
+      764
+    ],
+    "a7bd4aaa": [
+      98
+    ],
+    "a94703ab": [
+      869,
+      48
+    ],
+    "ad48ffbe": [
+      619
+    ],
+    "c4f5d8e4": [
+      869,
+      634
+    ],
+    "styles": [
+      48,
+      354,
+      401,
+      634,
+      792,
+      869
+    ]
+  },
+  "assets": {
+    "48": {
+      "js": [
+        {
+          "file": "assets/js/a94703ab.f2e58759.js",
+          "hash": "9b4eb00a3936523a",
+          "publicPath": "/book-hackathon/assets/js/a94703ab.f2e58759.js"
+        }
+      ]
+    },
+    "66": {
+      "js": [
+        {
+          "file": "assets/js/13f6729e.b6aae1ef.js",
+          "hash": "f64db79fe43b78e0",
+          "publicPath": "/book-hackathon/assets/js/13f6729e.b6aae1ef.js"
+        }
+      ]
+    },
+    "78": {
+      "js": [
+        {
+          "file": "assets/js/5f4325a7.9af1caa5.js",
+          "hash": "23a13b2915e1e2ed",
+          "publicPath": "/book-hackathon/assets/js/5f4325a7.9af1caa5.js"
+        }
+      ]
+    },
+    "79": {
+      "js": [
+        {
+          "file": "assets/js/3445f5d7.1f9976a9.js",
+          "hash": "ceb5579dadca555d",
+          "publicPath": "/book-hackathon/assets/js/3445f5d7.1f9976a9.js"
+        }
+      ]
+    },
+    "98": {
+      "js": [
+        {
+          "file": "assets/js/a7bd4aaa.8565b772.js",
+          "hash": "149a250302ea280a",
+          "publicPath": "/book-hackathon/assets/js/a7bd4aaa.8565b772.js"
+        }
+      ]
+    },
+    "237": {
+      "js": [
+        {
+          "file": "assets/js/237.e396d74e.js",
+          "hash": "2e0b61a279393b75",
+          "publicPath": "/book-hackathon/assets/js/237.e396d74e.js"
+        }
+      ]
+    },
+    "325": {
+      "js": [
+        {
+          "file": "assets/js/6e3e808e.1c58ecbe.js",
+          "hash": "4cb8f7295a7fb55b",
+          "publicPath": "/book-hackathon/assets/js/6e3e808e.1c58ecbe.js"
+        }
+      ]
+    },
+    "354": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.4402d8a6.js",
+          "hash": "074d29c742b62308",
+          "publicPath": "/book-hackathon/assets/js/runtime~main.4402d8a6.js"
+        }
+      ]
+    },
+    "393": {
+      "js": [
+        {
+          "file": "assets/js/3161345c.93db81ff.js",
+          "hash": "eaebc844501adeac",
+          "publicPath": "/book-hackathon/assets/js/3161345c.93db81ff.js"
+        }
+      ]
+    },
+    "401": {
+      "js": [
+        {
+          "file": "assets/js/17896441.e5d2870e.js",
+          "hash": "05eec920d46cca8e",
+          "publicPath": "/book-hackathon/assets/js/17896441.e5d2870e.js"
+        }
+      ]
+    },
+    "581": {
+      "js": [
+        {
+          "file": "assets/js/935f2afb.8bbfc1bd.js",
+          "hash": "3c59608ad6394ee8",
+          "publicPath": "/book-hackathon/assets/js/935f2afb.8bbfc1bd.js"
+        }
+      ]
+    },
+    "619": {
+      "js": [
+        {
+          "file": "assets/js/ad48ffbe.27397ddd.js",
+          "hash": "c5221a67ab4faf7d",
+          "publicPath": "/book-hackathon/assets/js/ad48ffbe.27397ddd.js"
+        }
+      ]
+    },
+    "634": {
+      "js": [
+        {
+          "file": "assets/js/c4f5d8e4.3a5ba484.js",
+          "hash": "83d3cda4e81a86e6",
+          "publicPath": "/book-hackathon/assets/js/c4f5d8e4.3a5ba484.js"
+        }
+      ]
+    },
+    "647": {
+      "js": [
+        {
+          "file": "assets/js/5e95c892.8a3fd1f8.js",
+          "hash": "35df8046044778c5",
+          "publicPath": "/book-hackathon/assets/js/5e95c892.8a3fd1f8.js"
+        }
+      ]
+    },
+    "738": {
+      "js": [
+        {
+          "file": "assets/js/609f5063.ffac4984.js",
+          "hash": "dc0d2eb36872a076",
+          "publicPath": "/book-hackathon/assets/js/609f5063.ffac4984.js"
+        }
+      ]
+    },
+    "764": {
+      "js": [
+        {
+          "file": "assets/js/a04c8bf3.e812d36f.js",
+          "hash": "6dee09901bc25382",
+          "publicPath": "/book-hackathon/assets/js/a04c8bf3.e812d36f.js"
+        }
+      ]
+    },
+    "792": {
+      "js": [
+        {
+          "file": "assets/js/main.c92115c8.js",
+          "hash": "e2e19ee1ad57b384",
+          "publicPath": "/book-hackathon/assets/js/main.c92115c8.js"
+        }
+      ]
+    },
+    "850": {
+      "js": [
+        {
+          "file": "assets/js/8963a6f2.33ce3b90.js",
+          "hash": "8bc334e7e25b0671",
+          "publicPath": "/book-hackathon/assets/js/8963a6f2.33ce3b90.js"
+        }
+      ]
+    },
+    "869": {
+      "css": [
+        {
+          "file": "assets/css/styles.bd97a26c.css",
+          "hash": "fa0a56867b5290ec",
+          "publicPath": "/book-hackathon/assets/css/styles.bd97a26c.css"
+        }
+      ]
+    },
+    "932": {
+      "js": [
+        {
+          "file": "assets/js/590d08a6.93eed70a.js",
+          "hash": "9130ec177e8fa073",
+          "publicPath": "/book-hackathon/assets/js/590d08a6.93eed70a.js"
+        }
+      ]
+    },
+    "934": {
+      "js": [
+        {
+          "file": "assets/js/5e229e67.86f63c5a.js",
+          "hash": "58684afd5e3403fe",
+          "publicPath": "/book-hackathon/assets/js/5e229e67.86f63c5a.js"
+        }
+      ]
+    },
+    "976": {
+      "js": [
+        {
+          "file": "assets/js/0e384e19.650a0a7e.js",
+          "hash": "2701d42a308f6c0b",
+          "publicPath": "/book-hackathon/assets/js/0e384e19.650a0a7e.js"
+        }
+      ]
+    }
+  }
+}

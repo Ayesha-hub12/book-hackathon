@@ -1,0 +1,27 @@
+{
+  "id": "urdf-structure/links-joints",
+  "title": "URDF Components: Links and Joints",
+  "description": "Understanding Robot Structure",
+  "source": "@site/docs/urdf-structure/links-joints.md",
+  "sourceDirName": "urdf-structure",
+  "slug": "/urdf-structure/links-joints",
+  "permalink": "/book-hackathon/docs/urdf-structure/links-joints",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/urdf-structure/links-joints.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Robot Structure with URDF",
+    "permalink": "/book-hackathon/docs/urdf-structure/"
+  },
+  "next": {
+    "title": "Humanoid Robot Models and Integration with ROS 2",
+    "permalink": "/book-hackathon/docs/urdf-structure/humanoid-models"
+  }
+}

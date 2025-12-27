@@ -1,0 +1,105 @@
+{
+  "/book-hackathon/__docusaurus/debug-3a6": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---book-hackathon-docusaurus-debug-506-5b6"
+    }
+  },
+  "/book-hackathon/__docusaurus/debug/config-fd8": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---book-hackathon-docusaurus-debug-506-5b6"
+    }
+  },
+  "/book-hackathon/__docusaurus/debug/content-018": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---book-hackathon-docusaurus-debug-506-5b6"
+    },
+    "allContent": "allContent---book-hackathon-docusaurus-debug-content-246-3b1"
+  },
+  "/book-hackathon/__docusaurus/debug/globalData-fa6": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---book-hackathon-docusaurus-debug-506-5b6"
+    }
+  },
+  "/book-hackathon/__docusaurus/debug/metadata-869": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---book-hackathon-docusaurus-debug-506-5b6"
+    }
+  },
+  "/book-hackathon/__docusaurus/debug/registry-dec": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---book-hackathon-docusaurus-debug-506-5b6"
+    }
+  },
+  "/book-hackathon/__docusaurus/debug/routes-14d": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---book-hackathon-docusaurus-debug-506-5b6"
+    }
+  },
+  "/book-hackathon/docs-1fe": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---book-hackathon-docsad-4-f19"
+    }
+  },
+  "/book-hackathon/docs-f95": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "version": "version---book-hackathon-docs-935-307"
+  },
+  "/book-hackathon/docs-c66": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/book-hackathon/docs/intro-a5a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---book-hackathon-docs-intro-0-e-3-7e2"
+  },
+  "/book-hackathon/docs/intro-ros2/-e27": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---book-hackathon-docs-intro-ros-2-316-065"
+  },
+  "/book-hackathon/docs/intro-ros2/concepts-df3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---book-hackathon-docs-intro-ros-2-concepts-590-801"
+  },
+  "/book-hackathon/docs/intro-ros2/middleware-a2d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---book-hackathon-docs-intro-ros-2-middleware-6-e-3-2e1"
+  },
+  "/book-hackathon/docs/python-agents/-cff": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---book-hackathon-docs-python-agents-609-22e"
+  },
+  "/book-hackathon/docs/python-agents/ai-integration-bf8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---book-hackathon-docs-python-agents-ai-integrationa-04-257"
+  },
+  "/book-hackathon/docs/python-agents/rclpy-basics-c91": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---book-hackathon-docs-python-agents-rclpy-basics-5-f-4-095"
+  },
+  "/book-hackathon/docs/urdf-structure/-955": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---book-hackathon-docs-urdf-structure-896-fcc"
+  },
+  "/book-hackathon/docs/urdf-structure/humanoid-models-491": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---book-hackathon-docs-urdf-structure-humanoid-models-344-300"
+  },
+  "/book-hackathon/docs/urdf-structure/links-joints-3ec": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---book-hackathon-docs-urdf-structure-links-joints-5-e-2-10b"
+  },
+  "/book-hackathon/-436": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---book-hackathon-13-f-41e"
+    },
+    "config": "config---book-hackathon-5-e-9-e55"
+  }
+}
