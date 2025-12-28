@@ -1,0 +1,178 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Introduction to ROS 2 Textbook",
+        "href": "/book-hackathon/docs/intro",
+        "docId": "intro",
+        "unlisted": false
+      },
+      {
+        "type": "category",
+        "label": "Module 1 - The Robotic Nervous System (ROS 2)",
+        "items": [
+          {
+            "type": "category",
+            "label": "Chapter 1: Introduction to ROS 2",
+            "items": [
+              {
+                "type": "link",
+                "label": "Introduction to ROS 2",
+                "href": "/book-hackathon/docs/intro-ros2/",
+                "docId": "intro-ros2/index",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Core ROS 2 Concepts: Nodes, Topics, Services, and Messages",
+                "href": "/book-hackathon/docs/intro-ros2/concepts",
+                "docId": "intro-ros2/concepts",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Middleware and Distributed Systems Overview",
+                "href": "/book-hackathon/docs/intro-ros2/middleware",
+                "docId": "intro-ros2/middleware",
+                "unlisted": false
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true
+          },
+          {
+            "type": "category",
+            "label": "Chapter 2: Python Agents with ROS 2",
+            "items": [
+              {
+                "type": "link",
+                "label": "Python Agents with ROS 2",
+                "href": "/book-hackathon/docs/python-agents/",
+                "docId": "python-agents/index",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "rclpy Basics: Creating Nodes, Publishers, and Subscribers",
+                "href": "/book-hackathon/docs/python-agents/rclpy-basics",
+                "docId": "python-agents/rclpy-basics",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Bridging AI Agents to ROS 2 Control",
+                "href": "/book-hackathon/docs/python-agents/ai-integration",
+                "docId": "python-agents/ai-integration",
+                "unlisted": false
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true
+          },
+          {
+            "type": "category",
+            "label": "Chapter 3: Robot Structure with URDF",
+            "items": [
+              {
+                "type": "link",
+                "label": "Robot Structure with URDF",
+                "href": "/book-hackathon/docs/urdf-structure/",
+                "docId": "urdf-structure/index",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "URDF Components: Links and Joints",
+                "href": "/book-hackathon/docs/urdf-structure/links-joints",
+                "docId": "urdf-structure/links-joints",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Humanoid Robot Models and Integration with ROS 2",
+                "href": "/book-hackathon/docs/urdf-structure/humanoid-models",
+                "docId": "urdf-structure/humanoid-models",
+                "unlisted": false
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      }
+    ]
+  },
+  "docs": {
+    "intro": {
+      "id": "intro",
+      "title": "Introduction to ROS 2 Textbook",
+      "description": "Welcome to the Robotic Nervous System",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro-ros2/concepts": {
+      "id": "intro-ros2/concepts",
+      "title": "Core ROS 2 Concepts: Nodes, Topics, Services, and Messages",
+      "description": "Understanding ROS 2 Architecture",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro-ros2/index": {
+      "id": "intro-ros2/index",
+      "title": "Introduction to ROS 2",
+      "description": "Welcome to ROS 2: The Robotic Nervous System",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro-ros2/middleware": {
+      "id": "intro-ros2/middleware",
+      "title": "Middleware and Distributed Systems Overview",
+      "description": "The Role of Middleware in ROS 2",
+      "sidebar": "tutorialSidebar"
+    },
+    "python-agents/ai-integration": {
+      "id": "python-agents/ai-integration",
+      "title": "Bridging AI Agents to ROS 2 Control",
+      "description": "Integrating AI with ROS 2 Systems",
+      "sidebar": "tutorialSidebar"
+    },
+    "python-agents/index": {
+      "id": "python-agents/index",
+      "title": "Python Agents with ROS 2",
+      "description": "Bridging Python and ROS 2",
+      "sidebar": "tutorialSidebar"
+    },
+    "python-agents/rclpy-basics": {
+      "id": "python-agents/rclpy-basics",
+      "title": "rclpy Basics: Creating Nodes, Publishers, and Subscribers",
+      "description": "Getting Started with rclpy",
+      "sidebar": "tutorialSidebar"
+    },
+    "urdf-structure/humanoid-models": {
+      "id": "urdf-structure/humanoid-models",
+      "title": "Humanoid Robot Models and Integration with ROS 2",
+      "description": "Creating Humanoid Robots in URDF",
+      "sidebar": "tutorialSidebar"
+    },
+    "urdf-structure/index": {
+      "id": "urdf-structure/index",
+      "title": "Robot Structure with URDF",
+      "description": "Modeling Robots: Links, Joints, and Kinematics",
+      "sidebar": "tutorialSidebar"
+    },
+    "urdf-structure/links-joints": {
+      "id": "urdf-structure/links-joints",
+      "title": "URDF Components: Links and Joints",
+      "description": "Understanding Robot Structure",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

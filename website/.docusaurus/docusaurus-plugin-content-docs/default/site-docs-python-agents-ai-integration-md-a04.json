@@ -1,0 +1,27 @@
+{
+  "id": "python-agents/ai-integration",
+  "title": "Bridging AI Agents to ROS 2 Control",
+  "description": "Integrating AI with ROS 2 Systems",
+  "source": "@site/docs/python-agents/ai-integration.md",
+  "sourceDirName": "python-agents",
+  "slug": "/python-agents/ai-integration",
+  "permalink": "/book-hackathon/docs/python-agents/ai-integration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/python-agents/ai-integration.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "rclpy Basics: Creating Nodes, Publishers, and Subscribers",
+    "permalink": "/book-hackathon/docs/python-agents/rclpy-basics"
+  },
+  "next": {
+    "title": "Robot Structure with URDF",
+    "permalink": "/book-hackathon/docs/urdf-structure/"
+  }
+}

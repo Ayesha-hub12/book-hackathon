@@ -1,0 +1,78 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/book-hackathon/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/book-hackathon/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/book-hackathon/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro-ros2/concepts",
+              "path": "/book-hackathon/docs/intro-ros2/concepts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro-ros2/index",
+              "path": "/book-hackathon/docs/intro-ros2/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro-ros2/middleware",
+              "path": "/book-hackathon/docs/intro-ros2/middleware",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "python-agents/ai-integration",
+              "path": "/book-hackathon/docs/python-agents/ai-integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "python-agents/index",
+              "path": "/book-hackathon/docs/python-agents/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "python-agents/rclpy-basics",
+              "path": "/book-hackathon/docs/python-agents/rclpy-basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "urdf-structure/humanoid-models",
+              "path": "/book-hackathon/docs/urdf-structure/humanoid-models",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "urdf-structure/index",
+              "path": "/book-hackathon/docs/urdf-structure/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "urdf-structure/links-joints",
+              "path": "/book-hackathon/docs/urdf-structure/links-joints",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/book-hackathon/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

@@ -1,0 +1,63 @@
+/**
+ * Copyright (c) 2017-present, Facebook, Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/* You can override the default Docusaurus theme styles here. */
+:root {
+  --ifm-color-primary: #25c2a0;
+  --ifm-color-primary-dark: #21af90;
+  --ifm-color-primary-darker: #1fa588;
+  --ifm-color-primary-darkest: #1a8870;
+  --ifm-color-primary-light: #29d5b0;
+  --ifm-color-primary-lighter: #32d8b4;
+  --ifm-color-primary-lightest: #4fddbf;
+  --ifm-code-font-size: 95%;
+}
+
+/* Custom styles for the ROS 2 textbook */
+.docusaurus-highlight-code-line {
+  background-color: rgba(0, 0, 0, 0.1);
+  display: block;
+  margin: 0 calc(-1 * var(--ifm-pre-padding));
+  padding: 0 var(--ifm-pre-padding);
+}
+
+html[data-theme='dark'] .docusaurus-highlight-code-line {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+/* Custom styles for educational content */
+.admonition {
+  margin-bottom: 1rem;
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+
+.admonition-note {
+  background-color: #e8f4fd;
+  border-left: 0.5rem solid #25c2a0;
+}
+
+html[data-theme='dark'] .admonition-note {
+  background-color: #052748;
+}
+
+/* Code block styling */
+.code-block-error-line {
+  background-color: #ff000020;
+  display: block;
+  margin: 0 calc(-1 * var(--ifm-pre-padding));
+  padding: 0 var(--ifm-pre-padding);
+  border-left: 3px solid #ff0000;
+}
+
+.code-block-success-line {
+  background-color: #00ff0020;
+  display: block;
+  margin: 0 calc(-1 * var(--ifm-pre-padding));
+  padding: 0 var(--ifm-pre-padding);
+  border-left: 3px solid #00ff00;
+}
